@@ -3,6 +3,7 @@
     This problem is so easy, it can be solved in a matter of seconds.
     Connect to c1.easyctf.com:12482.
 https://github.com/Jae00s/CTF/blob/master/EasyCTF/Flag_Time.py
+
 문제 이름처럼 시간을 이용해서 푸는 문제입니다.
 easyctf{ez_t1m1ng_4ttack!}
 
