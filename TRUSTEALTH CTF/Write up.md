@@ -200,6 +200,6 @@ TRUST{dir_mag1c_N3w_meta_pyja1l_1s_g00d_0r_b4d...?_t3l1_m3}
       return result;
     }
     85를 입력받으면 flag()를 실행시키므로 85입력
-![linux_rev](https://user-images.githubusercontent.com/36340157/37866779-98453240-2fd2-11e8-82c1-cb9d91846d4e.PNG)
+![linux_rev](https://user-images.githubusercontent.com/36340157/37866779-98453240-2fd2-11e8-82c1-cb9d91846d4e.PNG) 
 
 
